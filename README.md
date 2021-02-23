@@ -28,3 +28,4 @@
 * 맥북과 안드로이드 폰의 미러링을 위한 "scrcpy" 사용
 
 ## Youtube Link
+https://www.youtube.com/watch?v=D1THp4d3xQM&feature=youtu.be
