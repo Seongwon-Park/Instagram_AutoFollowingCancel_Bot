@@ -1,7 +1,7 @@
 ## Instagram Bot : Auto Following Cancel version
 
 * 개요 : 자동으로 팔로잉하는 봇을 만든 이후 팔로잉의 숫자가 너무 많아서 피드가 복잡해졌다.
-* 원리 : 모바일 인스타그래 앱으로 접속 시, 팔로잉 목록 상단에 내 아이디가 있는지 확인하는 방식으로 맞팔인지 여부를 인식하고자 한다.
+* 원리 : 모바일 인스타그래 앱으로 접속 시, 팔로잉 목록 상단에 내 아이디가 있는지 확인하는 방식으로 맞팔인지 여부를 알 수 있다.
 * 구현 : Python (Pyautogui / Pytesseract / OpenCV)
 
 ## Algorithm
