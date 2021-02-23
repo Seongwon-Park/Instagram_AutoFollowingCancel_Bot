@@ -26,5 +26,5 @@
 * 노트북 : MacOS Bigsur 11.2
 * 모바일 : Android
 * 맥북과 안드로이드 폰의 미러링을 위한 "scrcpy" 사용
-* 
+
 ## Youtube Link
